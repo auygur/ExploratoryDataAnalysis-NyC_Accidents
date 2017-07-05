@@ -103,12 +103,12 @@ For the following features, I used a correlation matrix to see if there is any r
 ### 6. Conclusion 
 The project was an in-depth exercise to explore and study trends and patterns in the NYC motor vehicle collision dataset. Through the course of the project, I deepened my expertise in several data visualization tools including R, Python, CartoDB and Tableau.
 
-###### Limitations:
+##### Limitations:
 The visualizations currently capture only limited trends. The dataset has several variables that could be explored in greater depth such as factors contributing to accidents, vehicle types involved and a deeper analysis of socio-geographic elements which influence these.
 Since data was mostly discrete/categorical, options for charting were comparatively limited.
 
 
-###### Future directions:
+##### Future directions:
 
 The next step in analysis would be to merge the dataset with external datasets pertaining to NYC such as for weather data, population data, socio-economic data etc. to draw deeper insights.
 
