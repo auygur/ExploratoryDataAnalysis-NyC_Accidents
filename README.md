@@ -1,5 +1,5 @@
 
-The project is published here: https://ckaavya.github.io/EDAV-Project/
+The project is published at [tempProjectSite](http://kaavyachinniah.com/EDAV-Project/)
 
 # NYC Motor Vehicle Collisions: Visualizing Trends in Data
 
@@ -56,7 +56,7 @@ In conclusion, the analysis showed that, in order to determine how often an acci
 
 ### 4. Website
 
-All visualizations and descriptions are published online at https://ckaavya.github.io/EDAV-Project/.
+All visualizations and descriptions are published online at [tempProjectSite](http://kaavyachinniah.com/EDAV-Project/)
 
 ### 5. Data cleaning process
 The code for data cleaning is available at https://github.com/auygur/ExploratoryDataAnalysis-NyC_Accidents
