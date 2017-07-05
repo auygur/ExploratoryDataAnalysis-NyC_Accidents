@@ -59,7 +59,7 @@ In conclusion, the analysis showed that, in order to determine how often an acci
 All visualizations and descriptions are published online at [tempProjectSite](http://kaavyachinniah.com/EDAV-Project/)
 
 ### 5. Data cleaning process
-The code for data cleaning is available at https://github.com/auygur/ExploratoryDataAnalysis-NyC_Accidents
+The code for data cleaning is available at [Github/auygur](https://github.com/auygur/ExploratoryDataAnalysis-NyC_Accidents)
 - CartoMapGetData.ipynb file contains codes for the specifically cleaned data used in CartoDB animations
 - Exploratory.ipynb file contains codes for exploratory data analysis, feature engineering, and cleaning. The data derived from this notebook was then used in Tableau implementation.
 - getMissingness.R file contains codes to explore the missigness of the data.
